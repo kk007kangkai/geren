@@ -58,10 +58,10 @@ h2 {font-size:46px; font-weight:normal;}
 #block-prjEXP .prj .prj-logo {display:block; margin:0 auto; height:180px; width:180px; border-radius:50%;}
 #block-prjEXP .prj .prj-title {height:auto; width:240px; margin:20px 0; font-size:26px; text-align:center;}
 #block-prjEXP .prj .prj-intro {height:auto; width:240px; font-size:20px; text-indent:1em}
-#block-prjEXP #prj-8590 .prj-logo   {background:#ED6461 url(../img/8590.png) no-repeat center; border:4px solid #FFFFFF;}
-#block-prjEXP #prj-weibing .prj-title a:hover{border-bottom:3px solid white;}
-#block-prjEXP #prj-weibing .prj-logo       {background:#9C58B6 url(../img/weibing.png) no-repeat center; border:4px solid #FFFFFF;}
-#block-prjEXP #prj-haichuan .prj-logo {background:#16CC70 url(../img/haichuan.png) no-repeat center; border:4px solid #FFFFFF;}
+#block-prjEXP #prj-yonyou .prj-logo   {background:#ED6461 url(../img/yonyou.webp) no-repeat center; border:4px solid #FFFFFF; background-size: cover;}
+#block-prjEXP #prj-kingdee .prj-title a:hover{border-bottom:3px solid white;}
+#block-prjEXP #prj-kingdee .prj-logo       {background:#9C58B6 url(../img/kingdee.jpg) no-repeat center; border:4px solid #FFFFFF; background-size: cover;}
+#block-prjEXP #prj-richu .prj-logo {background:#16CC70 url(../img/richu.png) no-repeat center; border:4px solid #FFFFFF; background-size: cover;}
 
 /* block-wantMore */
 #block-wantMore {width:100%; background-color:#ED6461; color:#fff;}
